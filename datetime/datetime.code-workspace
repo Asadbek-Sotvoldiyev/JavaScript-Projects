@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "datetime",
+			"path": "."
+		},
+		{
+			"name": "gradient-color",
+			"path": "../gradient-color"
+		},
+		{
+			"name": "ping-pong",
+			"path": "../ping-pong"
+		},
+		{
+			"name": "Timer",
+			"path": "../Timer"
+		},
+		{
+			"name": "JavaScript-Projects",
+			"path": "C:/Users/user/JavaScript-Projects"
+		}
+	],
+	"settings": {}
+}
